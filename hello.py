@@ -2,4 +2,4 @@
 #Noel
 #4/25/2020
 import os
-print "Hello world from the python! Hello from %s" % os.environ['NAME']
+print "Hello world from the python!" 
